@@ -7,13 +7,14 @@ aim to revamp and simplify the process for both trip leaders and students.
 
 Demo:
 Browse trips across all DOC clubs or by specific clubs:
-![Browse](gifs/browse.gif)
+![Browse](alltrips.gif)
 
 Signing up and cancelling for a trip is as easy as clicking a button:
-![Signup](gifs/signup.gif)
+![Signup](trips.gif)
+![Signup](tripsview.gif)
 
 Users can easily edit their critical info, such as emails and dash numbers, and have it sent to all of their trips:
-![Update](gifs/update.gif)
+![Update](profile.gif)
 
 Other features such as maintaining/creating trips, adding leaders and certifications, and managing members are only accesible for DOC Operational team and Trip Leaders. 
 
