@@ -4,6 +4,8 @@ This project is creating a web app that allows for members of the Dartmouth comm
 to more easily browse, create, and sign up for Dartmouth Outing Club (DOC) trips. We 
 aim to revamp and simplify the process for both trip leaders and students.
 
+NOTE: As this project was part of a DALI Lab project, the official repository is private. This repository if specifically for the demo of the final product, live and in use by the DOC.
+
 
 Demo:
 Browse trips across all DOC clubs or by specific clubs:
